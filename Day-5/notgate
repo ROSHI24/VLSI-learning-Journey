@@ -1,0 +1,7 @@
+#Create a module that implements a NOT gate.
+used ~ to invert the input
+
+module top_module( input in, output out );
+assign out=~in;
+endmodule
+
