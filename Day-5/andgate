@@ -1,0 +1,6 @@
+#Create a module that implements an AND gate.
+used & to perform and operation
+
+module top_module( input a, input b, output out );
+assign out= a&b;
+endmodule
